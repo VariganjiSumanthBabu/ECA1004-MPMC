@@ -1,4 +1,4 @@
-# ECA10 - Microprocessors and Microcontrollers
+# ECA1004 - Microprocessors and Microcontrollers
 
 Name: Variganji Sumanth Babu
 
