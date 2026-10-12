@@ -6,6 +6,6 @@ Registration Number: 192524447
 
 Academic Cycle: MS2 Sep-Dec 2026 (UG)
 
-Slot: SLOT A
+Slot: Slot A
 
 Course Faculty: Dr. A. Sivanantham 
